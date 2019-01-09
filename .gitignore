@@ -1,0 +1,8 @@
+x64/
+leetcode/
+*.sdf
+*.sln
+.vs/
+*.vcxproj
+*.filters
+*.opensdf
